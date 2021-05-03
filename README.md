@@ -6,12 +6,6 @@
 - 💬 Ask me about anything [here](https://twitter.com/samkadjei)
 - ⚡ Fun fact: I can deadlift 180kg 🏋🏾‍♂️ 
 
-<br />
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-samadjei.vercel.app/api/spotify-playing" alt="Sam Adjei Spotify Playing" width="350" />](https://open.spotify.com/user/1140978526)
-
 <br/>
 
 ### Connect with me:
