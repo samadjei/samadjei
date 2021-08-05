@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on I’m currently working on web dev challenges on https://www.frontendmentor.io 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about anything [here](https://twitter.com/samkadjei)
-- ⚡ Fun fact: I can deadlift 180kg 🏋🏾‍♂️ 
+<!-- - ⚡ Fun fact: I can deadlift 180kg 🏋🏾‍♂️  -->
 
 <br/>
 
